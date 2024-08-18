@@ -26,3 +26,5 @@ All interactions are saved in local storage, so tasks persist even if the user l
 
 **Purpose**
 This project is a practical demonstration of how web technologies can be used to create a functional and interactive application. It’s a useful tool for learning and practicing front-end development, as well as for managing personal tasks in a simple, organized manner.
+
+![todo-list output](https://github.com/user-attachments/assets/5427077f-352d-4a89-94ee-d76489f2ac39)
